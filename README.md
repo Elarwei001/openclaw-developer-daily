@@ -6,6 +6,8 @@
 
 | 日期 | 亮点 |
 |------|------|
+| [2026-03-15](./daily/2026-03-15.md) | 飞书 ACP/Subagent 绑定、OpenRouter 运行时能力检测、Android 深色模式 |
+| [2026-03-14](./daily/2026-03-14.md) | Cron 自定义 Session 绑定、Heartbeat 隔离模式、/btw 侧边问题 |
 | [2026-03-13](./daily/2026-03-13.md) | Plugin-SDK 内存优化 -63%、Slack 按钮支持、iOS 欢迎页 |
 | [2026-03-12](./daily/2026-03-12.md) | 57 PRs merged |
 | [2026-03-11](./daily/2026-03-11.md) | 每日更新 |
