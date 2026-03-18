@@ -6,6 +6,7 @@
 
 | 日期 | 亮点 |
 |------|------|
+| [2026-03-17](./daily/2026-03-17.md) | Bundle MCP 工具运行时、Chutes Provider 内置、CLI Config Set 增强、安全封堵 JVM/Python/.NET 注入 |
 | [2026-03-16](./daily/2026-03-16.md) | Claude 插件市场集成、跨 Channel 统一交互组件、浏览器支持 Brave/Edge |
 | [2026-03-15](./daily/2026-03-15.md) | 飞书 ACP/Subagent 绑定、OpenRouter 运行时能力检测、Android 深色模式 |
 | [2026-03-14](./daily/2026-03-14.md) | Cron 自定义 Session 绑定、Heartbeat 隔离模式、/btw 侧边问题 |
